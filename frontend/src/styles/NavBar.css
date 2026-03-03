@@ -1,0 +1,16 @@
+.navbar {
+    border: 1px solid red;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo {
+    width: 200px;
+}
+
+.navbar-menu {
+    list-style-type: none;
+    display: flex;
+}
